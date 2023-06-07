@@ -1,0 +1,19 @@
+{
+  "name": "lab1-compenent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huy301002/git-test.git"
+  },
+  "author": "hoanghuy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huy301002/git-test/issues"
+  },
+  "homepage": "https://github.com/Huy301002/git-test#readme"
+}
