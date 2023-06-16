@@ -1,0 +1,24 @@
+{
+  "name": "fer201m-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huy301002/Fer201m-Exercise.git"
+  },
+  "author": "huy hoang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huy301002/Fer201m-Exercise/issues"
+  },
+  "homepage": "https://github.com/Huy301002/Fer201m-Exercise#readme",
+  "dependencies": {
+    "react-router-dom": "^6.13.0"
+  }
+}
